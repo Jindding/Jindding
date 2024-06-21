@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 
-## 🔨 Once I've used 🔨
+## 🔨 Once I've used~ 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Languages -->
     <p><strong>Languages</strong></p>
